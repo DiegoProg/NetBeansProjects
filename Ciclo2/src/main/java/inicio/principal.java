@@ -22,6 +22,7 @@ public class principal
         System.out.println("total sueldo "+intTotalSueldo);*/
         
                 Scanner scanner = new Scanner(System.in);
+                Scanner scanner = new Scanner(System.in);
                 System.out.println("ingrese prestamos");
                 int prestamos = scanner.nextInt();
 
